@@ -1,5 +1,5 @@
 # MovieTaster-Open
-使用Item2Vec做电影推荐
+使用Item2Vec做电影推荐, [Demo](https://movietaster.leanapp.cn/movies/), [原理](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/)。
 
 ## 目录结构
 - datas:  存放语料
