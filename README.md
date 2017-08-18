@@ -1,5 +1,11 @@
 # MovieTaster-Open
-使用Item2Vec做电影推荐, [Demo](https://movietaster.leanapp.cn/movies/), [原理](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/)。
+使用Item2Vec做电影推荐
+
+[Demo>](https://movietaster.leanapp.cn/movies/)
+
+![MovieTaster-demo-输入多个电影](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/MovieTaster/movie_rec_multi.png)
+
+[原理详情请参考>](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/)
 
 ## 目录结构
 - datas:  存放语料
@@ -14,6 +20,8 @@
 1. 处理语料。结束后将在```./datas/```下生成fasttext所需要的格式
 
 ```
+$ cd datas && tar -xzvf corpus.tar.gz
+$ cd ..
 $ python utils/process.py
 ```
 
