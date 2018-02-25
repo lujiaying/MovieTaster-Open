@@ -6,7 +6,7 @@ A movie recommend project based on Item2vec.
 
 ![MovieTaster-demo-输入多个电影](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/MovieTaster/movie_rec_multi.png)
 
-[原理详情请参考>](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/)
+[More details for this project>](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/)
 
 ## Project Struct
 - datas:  to store corpus
