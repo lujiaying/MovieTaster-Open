@@ -6,7 +6,7 @@ A movie recommend project based on Item2vec.
 
 <img src="/recommend_multiple.jpg" />
 
-More details for this project, plese refer to [blog>](https://lujiaying.github.io/posts/2017/08/MovieTaster/), [zhihu>](https://zhuanlan.zhihu.com/p/28491088)
+More details for this project, plese refer to [blog>](https://lujiaying.github.io/posts/2017/08/MovieTaster/) or [zhihu>](https://zhuanlan.zhihu.com/p/28491088)
 
 ## Project Struct
 - datas:  to store corpus
