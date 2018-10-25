@@ -4,9 +4,9 @@ A movie recommend project based on Item2vec.
 
 [Demo>](https://movietaster.leanapp.cn/movies/)
 
-![MovieTaster-demo-输入多个电影](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/MovieTaster/movie_rec_multi.png)
+<img src="/recommend_multiple.jpg" />
 
-[More details for this project>](https://lujiaying.github.io/posts/2017/08/MovieTaster/)
+More details for this project, plese refer to [blog>](https://lujiaying.github.io/posts/2017/08/MovieTaster/), [zhihu>](https://zhuanlan.zhihu.com/p/28491088)
 
 ## Project Struct
 - datas:  to store corpus
