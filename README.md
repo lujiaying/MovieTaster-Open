@@ -79,7 +79,7 @@ movie_id_name_dict is 130206 from [./datas/doulist_0804_09.json]
 
 [Demo>](https://movietaster.leanapp.cn/movies/)
 
-![MovieTaster-demo-输入多个电影](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/MovieTaster/movie_rec_multi.png)
+<img src="/recommend_multiple.jpg" />
 
 [原理详情请参考>](https://lujiaying.github.io/posts/2017/08/MovieTaster/)
 
