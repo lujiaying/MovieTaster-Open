@@ -2,6 +2,9 @@
 
 A movie recommend project based on Item2vec.
 
+Reference: 
+- Barkan, Oren, and Noam Koenigstein. "Item2vec: neural item embedding for collaborative filtering." Machine Learning for Signal Processing (MLSP), 2016 IEEE 26th International Workshop on. IEEE, 2016.
+
 [Demo>](https://movietaster.leanapp.cn/movies/)
 
 <img src="/recommend_multiple.jpg" />
