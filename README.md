@@ -4,6 +4,7 @@ A movie recommend project based on Item2vec.
 
 Reference: 
 - Barkan, Oren, and Noam Koenigstein. "Item2vec: neural item embedding for collaborative filtering." Machine Learning for Signal Processing (MLSP), 2016 IEEE 26th International Workshop on. IEEE, 2016.
+- JayveeHe, https://github.com/JayveeHe/MusicTaster. Github.
 
 [Demo>](https://movietaster.leanapp.cn/movies/)
 
@@ -79,6 +80,10 @@ movie_id_name_dict is 130206 from [./datas/doulist_0804_09.json]
 # MovieTaster-Open
 
 使用Item2Vec做电影推荐
+
+参考: 
+- Barkan, Oren, and Noam Koenigstein. "Item2vec: neural item embedding for collaborative filtering." Machine Learning for Signal Processing (MLSP), 2016 IEEE 26th International Workshop on. IEEE, 2016.
+- JayveeHe, https://github.com/JayveeHe/MusicTaster. Github.
 
 [Demo>](https://movietaster.leanapp.cn/movies/)
 
